@@ -8,6 +8,8 @@ All documents within this github repository have been published under the follow
 
 The original PDF version of these notes can be located [here](http://resbaz.tumblr.com/post/80344338239/3d-printing-summer-school-02-2014-course-notes).
 
+![Image of Yaktocat](https://github.com/resbaz/digismith/blob/master/images/CCBYNCSA.png)
+
 If you have any questions, please contact us via [twitter](https://twitter.com/) at [@paulmignone](https://twitter.com/paulmignone), [@bmeade1003](https://twitter.com/bmeade1003) and [@dfflanders](https://twitter.com/dfflanders).
 
 To find out more, check out the [#digismith](https://www.google.com.au/webhp?sourceid=chrome-instant&rlz=1C1ASUT_enAU452AU452&ion=1&espv=2&ie=UTF-8#q=%23digismith) hashtag online!
