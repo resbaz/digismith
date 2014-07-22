@@ -15,6 +15,10 @@ Some of the content will be specific to the 3D printing course notes used to gen
 
 ## Welcome! ##
 
+Add image of lenna
+
+![LennaTest](https://github.com/resbaz/digismith/blob/master/images/Lenna.png)
+
 
 
 
